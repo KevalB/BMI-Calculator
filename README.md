@@ -6,5 +6,5 @@ You are allowed to use this code but credits shall be given at every instant.
 
 [v1.0] The functions Male and Female aren't available yet but will be updated in future.
 
-![alt text](https://github.com/KevalB/BMI-Calculator/blob/main/39_BMI.png?raw=true)
+
 <img src = "https://github.com/KevalB/BMI-Calculator/blob/main/39_BMI.png" width="200" height="200">
